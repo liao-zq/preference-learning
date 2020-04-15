@@ -16,4 +16,4 @@ The `MATLAB` folder includes the `consistency test` matlab script, which used to
 The necessary and possible relation is to find all pairwise preference relations. The return value `f` reveal the preference relation in each between the 1:26 alternatives. This learning process is based on the linear programming and each script need 26*26 times resoves.
 
 ## R project 1.1
-The `R project` reserve the graphs code for Figure 2 and its data. The `fig2` can be used to depict the heatmaps based the three data sets in the data folder. 
+The `R project` reserve the graphs code for Figure 2 based on the `R rogramming language`, as well as its data. The `fig2` can be used to depict the heatmaps based the three data sets in the data folder. 

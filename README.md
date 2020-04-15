@@ -1,6 +1,6 @@
 # preference-learning
 
-[![standard-readme compliant](https://img.shields.io/badge/matlab%20coding-1.1-brightgreen.svg?style=flat-square)](https://www.mathworks.com/products/matlab.html)
+[![standard-readme compliant](https://img.shields.io/badge/matlab%20coding-1.1-brightgreen.svg?style=flat-square)](https://github.com/liao-zq/preference-learning/tree/master/MATLAB)
 
 Hi there!
 

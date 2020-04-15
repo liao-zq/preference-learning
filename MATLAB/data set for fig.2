@@ -1,0 +1,8 @@
+close all;clc;
+mat=1/5.*X(7:21);
+matr=zeros(6); 
+i = x(:,1); j = x(:,2);
+matr(sub2ind(size(matr), i, j))=mat;
+matri=matr+matr';
+
+save('D:\My laptop\Machine learning\R studio\data\data1.mat', 'matri'); #data.mat from 1 to 3

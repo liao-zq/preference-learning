@@ -19,7 +19,9 @@ pheatmap(bb,color = colorRampPalette(c("#CC0000","#FF9933","#FFFFCC","white","#C
          cluster_rows = FALSE,
          cluster_cols = FALSE,
          angle_col = "45",
-         main="Alternatives 15 and 16",
+         # main="C. Alternatives 15 and 16",
          family="times new roman",
-         fontsize=8
+         fontsize=8,
+         fontsize_row = 10,
+         fontsize_col = 10
            )
